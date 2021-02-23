@@ -1,0 +1,16 @@
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.exe
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.deps.json
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.runtimeconfig.json
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.runtimeconfig.dev.json
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.dll
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\ref\Proyectosc#.dll
+C:\Users\Jazmi\Documents\Proyectosc#\bin\Debug\net5.0\Proyectosc#.pdb
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.csprojAssemblyReference.cache
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.AssemblyInfoInputs.cache
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.AssemblyInfo.cs
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.csproj.CoreCompileInputs.cache
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.dll
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\ref\Proyectosc#.dll
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.pdb
+C:\Users\Jazmi\Documents\Proyectosc#\obj\Debug\net5.0\Proyectosc#.genruntimeconfig.cache
